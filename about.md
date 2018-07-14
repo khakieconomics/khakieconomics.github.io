@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an applied statistician, originally from Melbourne, Australia, but currently in NYC. I am head of
+data science at frontier markets debt platform startup Lendable. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Previously, I worked at 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- [The Data Science for Social Good fellowship](dssg.uchicago.edu) on uplift/attribution estimation for the Obamacare outreach effort in Illinois and across the US.
+- [The Grattan Institute](grattan.edu.au), mostly on Superannuation policy, including fees, manager performance, mechanism design, and taxation. 
+- [The Australian Treasury](treasury.gov.au) in the macroeconometrics modeling unit, and in the CGE modeling team on the (late) 2011 carbon tax. 
+
+I did a masters in economics with an econometrics focus at the University of Melbourne, and 
+a first-class honours degree in economics, focusing on exogenous growth and fiscal-monetary 
+interactions, at La Trobe University. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+
