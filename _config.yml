@@ -23,7 +23,7 @@ github_username:  khakieconomics
 
 # Build settings
 markdown: kramdown
-theme: Slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
