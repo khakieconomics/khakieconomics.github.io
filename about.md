@@ -19,5 +19,7 @@ Previously, I worked at
 I did a masters in economics with an econometrics focus at the University of Melbourne, degree in economics, focusing on exogenous growth and fiscal-monetary interactions, at La Trobe University. I earned first
 class honours for the thesis components in both. 
 
+The posts on this site normally try to describe a model or approach. But I don't always have time
+to write up a full post, and instead just put up a Github Gist. You can find these (here)[https://gist.github.com/khakieconomics].
 
 
