@@ -16,10 +16,6 @@ Previously, I worked at
 - [The Australian Treasury](treasury.gov.au) in the macroeconometrics modeling unit, and in the CGE modeling team on the (late) 2011 carbon tax. 
 - At the Penny Farthing Bicycle Shop, selling and repairing bicycles. To date, it has been my longest period of continuous employment. 
 
-I did a masters in economics with an econometrics focus at the University of Melbourne, degree in economics, focusing on exogenous growth and fiscal-monetary interactions, at La Trobe University. I earned first
-class honours for the thesis components in both. 
-
-The posts on this site normally try to describe a model or approach. But I don't always have time
-to write up a full post, and instead just put up a Github Gist. You can find these (here)[https://gist.github.com/khakieconomics].
+I studied economics/econometrics at universities of Melbourne (MEc) and La Trobe (BEc H1).  
 
 
