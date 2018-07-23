@@ -25,6 +25,12 @@ I don't always have time to write up a full blog on a modeling topic (or haven't
 
 [R file](https://gist.github.com/khakieconomics/81222987d3c262890e61a7edfb2f8dfb)
 
+**Biprobit**
+
+[Stan file](https://gist.github.com/khakieconomics/473bbcddf07e463b6b7cae8fa50bd53d)
+
+[R file](https://gist.github.com/khakieconomics/d61e3c1be07a05361cdffca2d2fb4166)
+
 **A very simple, very fast Naive Bayes-type classifier for very high dimensional data**
 
 [R file](https://gist.github.com/khakieconomics/bbc56c0cc5b4c51f70ef3a9b34205b0b)
