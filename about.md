@@ -8,7 +8,7 @@ permalink: /about/
 
 I am an applied statistician, originally from Melbourne, Australia, and currently in NYC. I am Manager and 
 data scientist at Schmidt Futures, a philanthropy. Until recently I was head of data science at frontier 
-markets debt platform startup Lendable
+markets debt platform startup [Lendable](http://lendablemarketplace.io).
 
 Previously, I worked at 
 
