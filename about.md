@@ -6,8 +6,9 @@ permalink: /about/
 
 ![Me!]({{"/assets/dataengconf_photo.jpg" | absolute_url}})
 
-I am an applied statistician, originally from Melbourne, Australia, and currently in NYC. I am head of
-data science at frontier markets debt platform startup [Lendable](lendablemarketplace.com). 
+I am an applied statistician, originally from Melbourne, Australia, and currently in NYC. I am Manager and 
+data scientist at Schmidt Futures, a philanthropy. Until recently I was head of data science at frontier 
+markets debt platform startup Lendable
 
 Previously, I worked at 
 
